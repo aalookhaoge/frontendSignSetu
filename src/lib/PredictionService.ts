@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000";
+const API_URL = "backendsignsetu-production.up.railway.app";
 
 export interface PredictionResponse {
   label: string;
