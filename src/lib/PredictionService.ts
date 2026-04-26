@@ -1,4 +1,4 @@
-export const API_URL = "https://backendsignsetu-production.up.railway.app";
+export const API_URL = "https://serversignsetu.onrender.com";
 
 export interface PredictionResponse {
   label: string;
